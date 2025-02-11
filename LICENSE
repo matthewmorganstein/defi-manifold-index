@@ -1,0 +1,42 @@
+@matthewmorganstein
+
+## Non-Commercial Open Source License
+# Definitions
+1.1. "Contributor" means each individual or legal entity that creates, contributes to the creation of, or owns Covered Software.
+1.2. "Covered Software" means Source Code Form to which the initial Contributor has attached the notice in Exhibit A, the Executable Form of such Source Code Form, and Modifications of such Source Code Form, in each case including portions thereof.
+1.3. "Executable Form" means any form of the work other than Source Code Form.
+1.4. "Non-Commercial Purpose" means any use of the Covered Software that is not intended to generate revenue or other forms of compensation.
+1.5. "Source Code Form" means the form of the work as it is typically published for use by developers in source code form, as opposed to Executable Form.
+1.6. "You" (or "Your") means an individual or a legal entity exercising permissions granted by this License.
+
+Grant of Rights
+2.1. Grants
+Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license:
+(a) under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit its Contributions, either on an unmodified basis, with Modifications, or as part of a Larger Work, solely for Non-Commercial Purposes; and
+(b) under Patent Claims of such Contributor to make, use, sell, offer for sale, have made, import, and otherwise transfer either its Contributions or its Contributor Version, solely for Non-Commercial Purposes.
+
+Restrictions
+3.1. Commercial Use
+You may not use the Covered Software for any Commercial Purpose.
+3.2. Distribution
+You may distribute the Covered Software, provided that:
+(a) You comply with the terms of this License; and
+(b) You include a copy of this License with every copy of the Covered Software You distribute.
+
+Warranty Disclaimer
+4.1. This License does not grant any rights to use the trademarks or service marks of the Contributors.
+4.2. The Covered Software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+Limitation of Liability
+5.1. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Covered Software (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+Acceptance
+By exercising any rights granted under this License, You accept and agree to be bound by the terms of this License.
+
+Termination
+7.1. This License will terminate automatically if You fail to comply with any term(s) of this License.
+7.2. Upon termination, You must destroy all copies of the Covered Software.
+Exhibit A - Source Code Form Notice
+"This Source Code Form is subject to the terms of the Non-Commercial Open Source License, v. 1.0. If a copy of the License was not distributed with this file, You can obtain one at [insert URL]."
+Exhibit B - Executable Form Notice
+"This Executable Form is subject to the terms of the Non-Commercial Open Source License, v. 1.0. If a copy of the License was not distributed with this file, You can obtain one at [insert URL]."
