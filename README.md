@@ -10,6 +10,10 @@ Unlike traditional indexes that focus on a specific sector or asset class, the M
 
 The index provides a more comprehensive and nuanced view of the DeFi cryptocurrency market. By identifying patterns and relationships between different cryptocurrencies, the index can potentially help investors manage risk more effectively. The index could also potentially help investors identify new investment opportunities and optimize their portfolios.
 
+# Index Computation
+
+The index is calculated using a weighted formula that considers the market capitalization, trading volume, liquidity, and risk-parity of the constituent assets.
+
 ## Technical Documentation
 
 ### Table of Contents
